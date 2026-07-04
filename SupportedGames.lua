@@ -1,0 +1,42 @@
+getgenv().Games = {
+
+    -- ══════════════════════════════════════════════════════
+    -- ✅ ACTIVE & SUPPORTED
+    -- ══════════════════════════════════════════════════════
+
+    [3351674303]      = "https://api.luarmor.net/files/v3/loaders/3dd8029e73d52fb980e0ec5fb6aeda2a.lua", -- Driving Empire // Main Game
+    [17625359962]     = "https://api.luarmor.net/files/v4/loaders/895bd33d32a01b5da2ec021ee2f7966f.lua", -- RIVALS // Main Lobby
+    [18126510175]     = "https://api.luarmor.net/files/v4/loaders/895bd33d32a01b5da2ec021ee2f7966f.lua", -- RIVALS // Mobile Hub
+    [71874690745115]  = "https://api.luarmor.net/files/v4/loaders/895bd33d32a01b5da2ec021ee2f7966f.lua", -- RIVALS // Team Deathmatch
+    [117398147513099] = "https://api.luarmor.net/files/v4/loaders/895bd33d32a01b5da2ec021ee2f7966f.lua", -- RIVALS // Matchmaking
+    [129604661913557] = "https://api.luarmor.net/files/v4/loaders/895bd33d32a01b5da2ec021ee2f7966f.lua", -- RIVALS // Free For All
+    [133215910299950] = "https://api.luarmor.net/files/v4/loaders/895bd33d32a01b5da2ec021ee2f7966f.lua", -- RIVALS // Gun Game
+
+    -- ══════════════════════════════════════════════════════
+    -- ❌ DISCONTINUED — No longer maintained
+    -- ══════════════════════════════════════════════════════
+
+    -- [8304191830]       = "https://api.luarmor.net/files/v3/loaders/815a58c05dc1e770d9d1506d24ac006f.lua", -- Anime Adventures
+    -- [10450270085]      = "https://api.luarmor.net/files/v3/loaders/732a5fbd9e4bca3f28df5bc2293aa5ab.lua", -- Jujutsu Infinite
+    -- [118693886221846]  = "https://api.luarmor.net/files/v3/loaders/732a5fbd9e4bca3f28df5bc2293aa5ab.lua", -- Jujutsu Infinite // Alt
+    -- [18668065416]      = "https://api.luarmor.net/files/v3/loaders/fbc854090940d543550e6396a0d7c947.lua", -- Blue Lock: Rivals // Main
+    -- [115110570222234]  = "https://api.luarmor.net/files/v3/loaders/fbc854090940d543550e6396a0d7c947.lua", -- Blue Lock: Rivals // Match
+    -- [99999183305180]   = "https://api.luarmor.net/files/v3/loaders/fbc854090940d543550e6396a0d7c947.lua", -- Blue Lock: Rivals // Pro Servers
+    -- [92517437168342]   = "https://api.luarmor.net/files/v3/loaders/fbc854090940d543550e6396a0d7c947.lua", -- Blue Lock: Rivals // Customs
+    -- [82577947590704]   = "https://api.luarmor.net/files/v3/loaders/fbc854090940d543550e6396a0d7c947.lua", -- Blue Lock: Rivals // Intro
+    -- [72829404259339]   = "https://api.luarmor.net/files/v3/loaders/d9b4281dc4937a8409fd4069d25c6885.lua", -- Anime Rangers X
+    -- [16732694052]      = "https://api.luarmor.net/files/v3/loaders/95f7791a6fd1d4e10028ee42363ddaab.lua", -- Fisch
+    -- [131716211654599]  = "https://api.luarmor.net/files/v3/loaders/95f7791a6fd1d4e10028ee42363ddaab.lua", -- Fisch // New Players Servers
+    -- [76558904092080]   = "https://api.luarmor.net/files/v3/loaders/62af0cb0c967bf9b439906ed535ad619.lua", -- The Forge // Main
+    -- [129009554587176]  = "https://api.luarmor.net/files/v3/loaders/62af0cb0c967bf9b439906ed535ad619.lua", -- The Forge // Forgotten Kingdom
+    -- [131884594917121]  = "https://api.luarmor.net/files/v3/loaders/62af0cb0c967bf9b439906ed535ad619.lua", -- The Forge // Frostspire Expanse
+    -- [77747658251236]  = "https://api.luarmor.net/files/v4/loaders/2804a7f362b23eab6eb1ead064252aca.lua", -- Sailor Piece // Main
+    -- [130167267952199]  = "https://api.luarmor.net/files/v4/loaders/2804a7f362b23eab6eb1ead064252aca.lua", -- Sailor Piece // Sea 2
+    -- [96767841099256]  = "https://api.luarmor.net/files/v4/loaders/2804a7f362b23eab6eb1ead064252aca.lua", -- Sailor Piece // Boss Rush
+    -- [138368689293913] = "https://api.luarmor.net/files/v4/loaders/2804a7f362b23eab6eb1ead064252aca.lua", -- Sailor Piece // Infinity Tower
+    -- [123955125827131] = "https://api.luarmor.net/files/v4/loaders/2804a7f362b23eab6eb1ead064252aca.lua", -- Sailor Piece // Double Dungeon
+    -- [75159314259063]  = "https://api.luarmor.net/files/v4/loaders/2804a7f362b23eab6eb1ead064252aca.lua", -- Sailor Piece // Cid Dungeon
+    -- [99684056491472]  = "https://api.luarmor.net/files/v4/loaders/2804a7f362b23eab6eb1ead064252aca.lua", -- Sailor Piece // Rune Dungeon
+    -- [98826438856089]  = "https://api.luarmor.net/files/v4/loaders/2804a7f362b23eab6eb1ead064252aca.lua", -- Sailor Piece // Crystal Defense
+
+}

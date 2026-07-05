@@ -31,13 +31,13 @@ if type(Games) == "table" then
 end
 
 if not supported then
-    if setclipboard then setclipboard("https://discord.gg/hackerclub") end
+    if setclipboard then setclipboard("https://spectrumcheat.com/discord") end
     task.wait(0.5)
     game.Players.LocalPlayer:Kick(
         "[ SPECTRUM ASSISTANT ]\n" ..
         "━━━━━━━━━━━━━━━━━━━━━━━━\n" ..
         "❌  This game is not supported yet.\n" ..
         "Join our Discord for updates!\n" ..
-        "🌐  https://discord.gg/hackerclub"
+        "🌐  https://spectrumcheat.com/discord"
     )
 end

@@ -12,9 +12,9 @@
 --     ██║░░██╗██╔══██║██╔══╝░░██╔══██║░░░██║░░░  ╚██╗░░╚═══██╗
 --     ╚█████╔╝██║░░██║███████╗██║░░██║░░░██║░░░   ░╚██╗██████╔╝
 
--- POWERED BY SPECTRUM ASSISTANT [AI] @SpectrumTrash , https://spectrumcheat.com  //  ]])
+-- POWERED BY SPECTRUM ASSISTANT [AI] @SpectrumCheat , https://spectrumcheat.com  //  ]])
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Spectrum-Trash/Storage/main/SupportedGames.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Spectrum-Cheat/Cloud/main/SupportedGames.lua"))()
 
 local Games     = getgenv().Games
 local supported = false
